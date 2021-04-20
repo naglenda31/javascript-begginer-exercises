@@ -2,6 +2,7 @@ const VERSION = '0.1';
 
 //Change the code below: 
 
-VERSION = '0.9';
+const newVERSION = '0.9';
 
-console.log(VERSION);
+
+console.log(newVERSION);
